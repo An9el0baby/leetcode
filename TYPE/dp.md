@@ -17,7 +17,7 @@ def fib(x):
     if x in [1,2]:
         return 1
     else:
-        return fib(x-1)+fib(x-2)
+        return fib(x-1) + fib(x-2)
 ```
 
 ```mermaid
