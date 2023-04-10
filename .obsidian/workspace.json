@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "ecad7fed2c02acc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7195a4cb65057373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bff7ff994b8dcd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db7d317e083c086c",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e3a13ae2f592de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a4a58f68d5c2af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4693fb2db186bf84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#easy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e79ada709cd9daf4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "2599930d59234af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ccb44f20db8e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ecf94ee8e0356f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c838b74da6acbdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b71becc98a3368a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92d1ef7d5294a741",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9c8769922cb1926",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 748.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "notion-like-tables:Create Notion-Like table": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "1bff7ff994b8dcd2",
+  "lastOpenFiles": [
+    "刷题表格.table",
+    "HARD/76. Minimum Window Substring.md",
+    "刷题宝典.md",
+    "MEDIUM/3. Longest Substring Without Repeating Characters.md",
+    "MEDIUM/2. Add Two Numbers.md",
+    "MEDIUM/34. Find First and Last Position of Element in Sorted Array.md",
+    "EASY/704. Binary Search.md",
+    "EASY/35. Search Insert Position.md",
+    "1.Two Sum.md",
+    "35. Search Insert Position.md",
+    "Untitled.table",
+    "EASY/1. Two Sum.md",
+    "CS61B.md",
+    "FullStack/HTML.md",
+    "CS61B/3.md",
+    "FullStack",
+    "CS61B/4.md",
+    "CS61B/2.md",
+    "CS61B/1.md",
+    "CS61B/java.md",
+    "git.md"
+  ]
+}
