@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fdea757ee53d3eb2",
+        "id": "f1b775d686361651",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba0448e15fd6039",
+            "id": "f5b649350250d4a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "notion-like-tables",
+              "state": {
+                "file": "刷题表格.table"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#easy",
+                "query": "tag:#SlidingWindow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "刷题表格.table",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "刷题表格.table",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "刷题表格.table"
+              }
             }
           },
           {
@@ -130,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,17 +156,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "4ba0448e15fd6039",
+  "active": "f5b649350250d4a1",
   "lastOpenFiles": [
-    "MEDIUM/3. Longest Substring Without Repeating Characters.md",
     "刷题宝典.md",
+    "1024. Video Stitching.md",
     "刷题表格.table",
+    "EASY/1480. Running Sum of 1d Array.md",
+    "EASY/925. Long Pressed Name.md",
+    "EASY/217. Contains Duplicate.md",
+    "EASY/35. Search Insert Position.md",
+    "EASY/704. Binary Search.md",
+    "MEDIUM/3. Longest Substring Without Repeating Characters.md",
     "MEDIUM/1004. Max Consecutive Ones III.md",
     "HARD/76. Minimum Window Substring.md",
     "MEDIUM/2. Add Two Numbers.md",
     "MEDIUM/34. Find First and Last Position of Element in Sorted Array.md",
-    "EASY/704. Binary Search.md",
-    "EASY/35. Search Insert Position.md",
     "1.Two Sum.md",
     "35. Search Insert Position.md",
     "Untitled.table",
