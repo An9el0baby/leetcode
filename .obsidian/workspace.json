@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1b775d686361651",
+        "id": "eaf1fa5fc72997f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b649350250d4a1",
+            "id": "e1f1e2fc63d3f76a",
             "type": "leaf",
             "state": {
-              "type": "notion-like-tables",
+              "type": "markdown",
               "state": {
-                "file": "刷题表格.table"
+                "file": "刷题宝典.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刷题表格.table",
+                "file": "刷题宝典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刷题表格.table",
+                "file": "刷题宝典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刷题表格.table"
+                "file": "刷题宝典.md"
               }
             }
           },
@@ -136,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,13 +158,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f5b649350250d4a1",
+  "active": "e1f1e2fc63d3f76a",
   "lastOpenFiles": [
-    "刷题宝典.md",
-    "1024. Video Stitching.md",
     "刷题表格.table",
-    "EASY/1480. Running Sum of 1d Array.md",
+    "MEDIUM/11. Container With Most Water.md",
+    "IMG_1465.jpg",
     "EASY/925. Long Pressed Name.md",
+    "MEDIUM/1024. Video Stitching.md",
+    "TYPE/dp.md",
+    "刷题宝典.md",
+    "MEDIUM/152. Maximum Product Subarray.md",
+    "EASY/1480. Running Sum of 1d Array.md",
     "EASY/217. Contains Duplicate.md",
     "EASY/35. Search Insert Position.md",
     "EASY/704. Binary Search.md",
@@ -182,7 +188,6 @@
     "CS61B/4.md",
     "CS61B/2.md",
     "CS61B/1.md",
-    "CS61B/java.md",
-    "git.md"
+    "CS61B/java.md"
   ]
 }

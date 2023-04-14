@@ -12,7 +12,7 @@ fib(n) = 1,& n=1, 2
 $$
 
 ```python
-# python 递归解法
+# 递归解法
 def fib(x):
     if x in [1,2]:
         return 1
@@ -34,5 +34,14 @@ E["fib(3)"] --> J["fib(2)"];
 
 如果用递归的方式，很多数会被重新计算，导致整个复杂度非常高，==即$O(2^n)$== 准确来说应该是$O(2^{n-2})$
 如上图所示, fib(3)就计算了2次，如果我们能用一个array将之前计算过的结果存起来，算之后的数字直接调用，那复杂度就能减少到$O(n)$
+```python
+def fib(x):
+	if x in [1,2]:
+		return 1
+	fibs = [1,1]
+	for i in range(3,x+1):
+		fibs = [fibs[1],fibs[0]+fibs[1]]
+	return fibs[1]
+```
 
 ## 值班-最优解
