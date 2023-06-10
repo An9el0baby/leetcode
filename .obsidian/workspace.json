@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf1fa5fc72997f9",
+        "id": "4c1b0f505055a87f",
         "type": "tabs",
+        "dimension": 37.51152073732719,
         "children": [
           {
-            "id": "e1f1e2fc63d3f76a",
+            "id": "05ac8ab22640fd7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +17,23 @@
                 "file": "刷题宝典.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "353c4a0ba74bc006",
+        "type": "tabs",
+        "dimension": 62.48847926267281,
+        "children": [
+          {
+            "id": "55eb2ede6f1b6ee7",
+            "type": "leaf",
+            "state": {
+              "type": "notion-like-tables",
+              "state": {
+                "file": "刷题表格.table"
               }
             }
           }
@@ -158,15 +176,23 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e1f1e2fc63d3f76a",
+  "active": "05ac8ab22640fd7e",
   "lastOpenFiles": [
+    "EASY/242. Valid Anagram.md",
+    "刷题宝典.md",
     "刷题表格.table",
+    "EASY/141. Linked List Cycle.md",
+    "CS61B.md",
+    "git.md",
+    "HARD/239. Sliding Window Maximum.md",
+    "EASY/20. Valid Parentheses.md",
+    "EASY/205. Isomorphic Strings.md",
+    "EASY/409. Longest Palindrome.md",
     "MEDIUM/11. Container With Most Water.md",
     "IMG_1465.jpg",
     "EASY/925. Long Pressed Name.md",
     "MEDIUM/1024. Video Stitching.md",
     "TYPE/dp.md",
-    "刷题宝典.md",
     "MEDIUM/152. Maximum Product Subarray.md",
     "EASY/1480. Running Sum of 1d Array.md",
     "EASY/217. Contains Duplicate.md",
@@ -180,14 +206,6 @@
     "1.Two Sum.md",
     "35. Search Insert Position.md",
     "Untitled.table",
-    "EASY/1. Two Sum.md",
-    "CS61B.md",
-    "FullStack/HTML.md",
-    "CS61B/3.md",
-    "FullStack",
-    "CS61B/4.md",
-    "CS61B/2.md",
-    "CS61B/1.md",
-    "CS61B/java.md"
+    "FullStack"
   ]
 }
